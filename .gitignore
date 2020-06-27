@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+node_modules/
+
+temp/uploads/*
+!temp/uploads/.gitkeep
+
+/.env
+.env/
+
+/package-lock.json
+package-lock.json/
+
+/yarn.lock
+yarn.lock/
